@@ -13,7 +13,7 @@ A Flutter application that allows users to **generate** and **scan QR codes** us
 
 | Generate QR                           | Scan QR                       |
 |---------------------------------------|-------------------------------|
-| ![Generate](screenshots/generate.png) | ![Scan](screenshots/scan.png) |
+| ![Generate](screenshots/generate_qr.png) | ![Scan](screenshots/scan_qr.png) |
 
 ## Packages Used
 - qr_flutter – for QR code generation
